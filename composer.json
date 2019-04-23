@@ -1,0 +1,17 @@
+{
+  "name": "pvtl/rfg-sso-snippet",
+  "description": "Includes the RFG Single-Sign-On (SSO) code snippet on the wp-login page programmatically.",
+  "homepage": "https://bitbucket.org/pvtl/rfg-sso-snippet",
+  "license": "GPL3",
+  "authors": [
+    {
+      "name": "Sheldon Braxton",
+      "email": "sheldon.b@pvtl.io",
+      "homepage": "https://www.pivotalagency.com.au/"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.6"
+  }
+}

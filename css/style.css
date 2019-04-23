@@ -1,0 +1,29 @@
+#loginform {
+    display: flex;
+    flex-wrap: wrap;
+}
+#loginform > p {
+    order: 1;
+}
+#loginform .forgetmenot,
+#loginform .submit {
+    flex: 50% 0 0;
+}
+#loginform .sso-container {
+    order: 0;
+    flex: 100% 0 0;
+    padding: 0 15px 25px;
+    margin-bottom: 15px;
+    border-bottom: 1px dashed #ddd;
+    box-sizing: border-box;
+}
+#loginform .sso-container .sso-error {
+    padding: 10px;
+    margin-bottom: 5px;
+    color: red;
+    border: 1px solid red;
+}
+#loginform .sso-container .sso-button {
+    width: 100%;
+    text-align: center;
+}
