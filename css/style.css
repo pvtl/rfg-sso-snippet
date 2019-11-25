@@ -5,6 +5,9 @@
 #loginform > p {
     order: 1;
 }
+#loginform > .user-pass-wrap {
+    order: 1;
+}
 #loginform .forgetmenot,
 #loginform .submit {
     flex: 50% 0 0;
