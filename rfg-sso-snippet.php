@@ -3,7 +3,7 @@
 Plugin Name: RFG SSO Snippet
 Plugin URI: https://www.pivotalagency.com.au/
 Description: Inserts RFG Single-Sign-On (SSO) snippet into wp-login.php programmatically.
-Version: 1.0.0
+Version: 1.0.1
 Author: Pivotal Agency
 Author URI: https://www.pivotalagency.com.au/
 Text Domain: rfg-sso-snippet
